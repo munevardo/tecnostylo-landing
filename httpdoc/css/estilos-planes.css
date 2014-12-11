@@ -1,0 +1,221 @@
+
+@media screen and (max-width: 500px) {
+   
+.volver{
+	width: 100% !important;
+	text-align: center!important;
+	padding-left:0 !important; 
+
+}
+
+#diamante{
+	display: none;
+} 
+
+#container-basic,#container-gold,#container-quienes-somos,#container-politicas
+{
+	margin-top: 30% !important;
+}
+
+}
+
+
+#agenda-phone,#agenda-phone1, #agenda-phone2 
+{
+	display: none;
+}
+
+
+}
+
+
+
+
+
+body{
+
+	font-family: lato;
+}
+
+
+#diamante
+{
+
+	width: 500px;
+	position: absolute;
+	top: 0px;
+	right:  0px;
+}
+
+
+#agenda-phone
+{
+width: 500px;
+position: absolute;
+bottom: 0;
+left: 0;
+
+}
+
+
+#container
+{
+	margin-top: 15%;
+}
+
+p
+{
+width: 300px;
+margin: 0 auto;
+font-size: 30px;
+text-align: center;
+font-family: lato;
+
+}
+
+#plan-basico
+{
+	width: 400px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}
+
+
+.volver
+{
+	color: #fff;
+	border: 0;
+	background: #0090A8;
+	position: absolute;
+	top: 0;
+	left: 0;
+	font-size: 25px;
+	padding:25px;
+	z-index: 1;
+	text-decoration: none;
+	width: 80px;
+}
+
+
+#mc-embedded-subscribe
+{
+	background: #0080BC;
+	color: #fff;
+	font-size: 15px;
+	width: 120px;
+	border: none;
+	border-bottom: 3px #1B6E8B solid;
+	margin-bottom: 10px;
+	font-family: lato;
+
+}
+
+/*--------------------------------------- basico----------------------------------------*/
+
+#container-basic
+{
+	margin-top: 10%;		
+}
+
+
+#container-basic p
+{
+	font-size: 22px;		
+}
+
+
+#mc_embed_signup
+{
+text-align: center;
+margin: 0 auto;
+font-size: 22px !important;
+}
+
+
+label
+{
+	margin-bottom: 10px;
+}
+
+
+
+
+/*--------------------------------------- Premiun----------------------------------------*/
+
+
+#container-gold {
+
+	margin-top: 10%;
+}
+
+#container-gold p
+{
+font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+/*--------------------------------------- Gold----------------------------------------*/
+
+
+#container-premiun 
+{
+
+margin-top: 10%;	
+}
+
+#container-premiun p
+{
+
+font-size: 20px;
+}
+
+
+/*--------------------------------------- Politicas----------------------------------------*/
+#container-quienes-somos p
+{
+
+	font-size: 13px !important;
+}
+
+#container-quienes-somos p strong
+{
+	text-align: center;
+}
+
+
+
+#agenda-phone1
+{
+width: 300px;
+position: absolute;
+bottom: -100%;
+left: 0;
+
+}
+
+/*--------------------------------------- quienes somos----------------------------------------*/
+
+
+#container-politicas p{
+
+	font-size: 13px !important;
+}
+
+#agenda-phone2
+{
+width: 300px;
+position: absolute;
+bottom: -200%;
+left: 0;
+
+}
+
